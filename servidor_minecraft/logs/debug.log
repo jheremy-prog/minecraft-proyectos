@@ -2493,3 +2493,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11May2025 18:52:47.217] [Worker-Main-17/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [11May2025 18:52:47.219] [Worker-Main-17/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
 [11May2025 18:52:53.348] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItzAlexMCYT accepted server config.
+[11May2025 18:54:23.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 18:54:23.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 18:55:25.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 0
+[11May2025 18:56:51.167] [Worker-Main-18/DEBUG] [mixin/]: Mixing WorkAtComposterAccess from kiwi.mixins.json into net.minecraft.world.entity.ai.behavior.WorkAtComposter
+[11May2025 18:56:51.168] [Worker-Main-18/DEBUG] [mixin/]: Renaming @Accessor method getCOMPOSTABLE_ITEMS()Ljava/util/List; to getCOMPOSTABLE_ITEMS_$md$1484ad$0 in kiwi.mixins.json:WorkAtComposterAccess
+[11May2025 18:56:51.168] [Worker-Main-18/DEBUG] [mixin/]: Renaming @Accessor method setCOMPOSTABLE_ITEMS(Ljava/util/List;)V to setCOMPOSTABLE_ITEMS_$md$1484ad$1 in kiwi.mixins.json:WorkAtComposterAccess
+[11May2025 18:59:23.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 18:59:23.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
