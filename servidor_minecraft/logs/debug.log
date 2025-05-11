@@ -2668,3 +2668,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11May2025 19:15:43.689] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItzAlexMCYT accepted server config.
 [11May2025 19:19:23.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11May2025 19:19:23.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 19:24:23.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 19:24:23.205] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 19:25:02.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11May2025 19:25:02.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: to itzalexmcyt 0 100 0<--[HERE]
+[11May2025 19:25:16.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[11May2025 19:25:16.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...alexmcyt0 100 0<--[HERE]
+[11May2025 19:25:28.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported ItzAlexMCYT to 0.500000, 100.000000, 0.500000
+[11May2025 19:25:30.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT fell from a high place
+[11May2025 19:25:33.946] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItzAlexMCYT accepted server config.
+[11May2025 19:28:46.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT has made the advancement [Monster Hunter]
+[11May2025 19:29:23.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 19:29:23.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 19:30:15.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT was blown up by Creeper
+[11May2025 19:30:17.252] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItzAlexMCYT accepted server config.
