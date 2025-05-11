@@ -2501,3 +2501,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11May2025 18:56:51.168] [Worker-Main-18/DEBUG] [mixin/]: Renaming @Accessor method setCOMPOSTABLE_ITEMS(Ljava/util/List;)V to setCOMPOSTABLE_ITEMS_$md$1484ad$1 in kiwi.mixins.json:WorkAtComposterAccess
 [11May2025 18:59:23.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11May2025 18:59:23.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 19:04:23.201] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 19:04:23.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 19:08:22.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItzAlexMCYT lost connection: Disconnected
+[11May2025 19:08:22.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT left the game
+[11May2025 19:09:23.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 19:09:23.195] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
