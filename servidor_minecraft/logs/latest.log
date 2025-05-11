@@ -393,3 +393,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11May2025 18:55:25.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set the time to 0
 [11May2025 19:08:22.936] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItzAlexMCYT lost connection: Disconnected
 [11May2025 19:08:22.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT left the game
+[11May2025 19:15:36.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItzAlexMCYT[/127.120.81.187:36335] logged in with entity id 2572 at (-190.63070651330668, 93.0, -14.741454024311617)
+[11May2025 19:15:36.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT joined the game
+[11May2025 19:15:43.689] [Server thread/INFO] [do_a_barrel_roll/]: Client of ItzAlexMCYT accepted server config.
