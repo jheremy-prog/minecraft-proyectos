@@ -2269,3 +2269,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [12May2025 12:37:26.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: There is no structure with type "minecraft:village"
 [12May2025 12:38:15.828] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItzAlexMCYT lost connection: Disconnected
 [12May2025 12:38:15.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItzAlexMCYT left the game
+[12May2025 12:40:17.880] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 12:40:17.902] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12May2025 12:45:17.879] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12May2025 12:45:17.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
